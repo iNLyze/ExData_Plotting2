@@ -1,4 +1,15 @@
-ExData_Plotting2
-================
+---
+title: "Untitled"
+author: "iNLyze"
+date: "Friday, November 21, 2014"
+output: html_document
+---
 
-The repository contains the files to Data Science course Exploratory Data Analysis - Project2
+
+# README
+
+## Note to the reviewer
+
+I would like to comment on some choices I made where the assignment left room for interpretation. 
+
+
